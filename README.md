@@ -1,1 +1,1 @@
-# ds4300_project
+# File structure and descriptions
